@@ -1,7 +1,7 @@
 # CASSET_gRNA_designer
 A library for gRNA design (for both single Cas and split-systems).  
 Split-system means 2 Cas (from the list: SpCas9, SaCas9, CjCas9, StCas9) are located in orientation (PAM-out, PAM-in, PAM-direct-left, PAM-direct-right) with the condition: the angle between protein ends (N- or C-) less than 20 degrees.  
-Also this library allows to design gRNA to recognise targets in set of pathogens. 
+Also, this library allows to design gRNA to recognize targets in a set of pathogens.
 
 ### Examples
 In [example notebook](example.ipynb) you can find the following examples:
