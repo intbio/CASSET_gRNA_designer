@@ -13,7 +13,7 @@ In [example notebook](example.ipynb) you can find the following examples:
 - On-target and off-targets scores for designed gRNAs, ranging of gRNAs
 - BLAST check of organisms in which designed gRNAs could work
 
-### Atributions
+### Attribution
 1. Code - A. Gribkova
 2. Distance between Cas proteins in split-systems from molecular modeling - R. Novikov, G. Armeev
 3. Logo - G. Armeev
